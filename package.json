@@ -1,0 +1,25 @@
+{
+  "name": "Login-page-with-EJS",
+  "version": "1.0.0",
+  "description": "Taha bey Less EJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emr4706/Login-page-with-EJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emr4706/Login-page-with-EJS/issues"
+  },
+  "homepage": "https://github.com/emr4706/Login-page-with-EJS#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  }
+}
